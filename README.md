@@ -14,10 +14,11 @@ Criado com o intuito de ser um espaço em que posso praticar e fazer análises s
 
 
 
-### Redes Sociais ###
+<h3 align="center">Redes Sociais</h3>
 
-* [Medium](https://medium.com/@joseestevan)
-* [Linkedin](https://www.linkedin.com/in/joseestevan/)
-* [GitHub](https://github.com/JoseEstevan)
+<p align="center">
+<a href="https://www.linkedin.com/in/joseestevan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joseestevan" height="30" width="30" /></a>
+<a href="https://medium.com/@joseestevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joseestevan" height="30" width="30" /></a>
+</p>
 
 Fique à vontade para entrar em contato através do meu email jose.estevan1524@gmail.com.
