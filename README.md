@@ -1,17 +1,24 @@
 # OverView
+ 
+#### [Premier League 2019-2020](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Premier%20League%202019-2020/Premier%20League%202019-2020.ipynb)
 
-Este repositório contém análises feitas por mim.
 
-Criado com o intuito de ser um espaço em que posso praticar e fazer análises sobre diferentes assuntos.  
+[Dados](https://github.com/JoseEstevan/Notebooks/tree/main/Premier%20League%202019-2020)                                                                                           
+Tags: futebol, analytics, data-viz
 
-### Conteúdo ###
 
-* [Premier League 2019-2020](https://github.com/JoseEstevan/OverView/tree/master/Premier%20League%202019-2020) 
+#### [Data Hackers Survey 2019](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Data%20Hackers%20Survey%202019/Data%20Hackers%20Survey%202019.ipynb)
 
-* [Data Hackers 2019 Survey](https://github.com/JoseEstevan/OverView/tree/master/Data%20Hackers%202019%20Survey)
 
-* [StackOverFlow 2020 Survey](https://bitbucket.org/joseestevan/overview/src/master/StackOverFlow%202020%20Survey/)
+[Dados](https://github.com/JoseEstevan/Notebooks/tree/main/Data%20Hackers%20Survey%202019)                                                                                         
+Tags: pesquisa, analytics, data-viz
 
+
+#### [Apartamentos SP](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Apartamentos%20SP/Apartamentos%20SP.ipynb)
+
+
+[Dados](https://github.com/JoseEstevan/Notebooks/tree/main/Apartamentos%20SP)                                                                                                       
+Tags: imóveis, analytics, data-viz
 
 
 <h3 align="center">Redes Sociais</h3>
