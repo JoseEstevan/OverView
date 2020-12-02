@@ -1,24 +1,20 @@
-# OverView
- 
-#### [Premier League 2019-2020](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Premier%20League%202019-2020/Premier%20League%202019-2020.ipynb)
+# Cases
+Análises de empresas presentes na Bolsa de Valores Brasileira.
 
+## [B2W](https://share.streamlit.io/joseestevan/ov_b2w/main/app.py)
 
-[Dados](https://github.com/JoseEstevan/Notebooks/tree/main/Premier%20League%202019-2020)                                                                                           
-Tags: futebol, analytics, data-viz
+## [Itaúsa](https://share.streamlit.io/joseestevan/ov_itausa/main/app.py)
 
+## [Azul](https://share.streamlit.io/joseestevan/ov_azul/main/app.py)
 
-#### [Data Hackers Survey 2019](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Data%20Hackers%20Survey%202019/Data%20Hackers%20Survey%202019.ipynb)
+# Outras
+Análises de diferentes assuntos, em formato ipynb.
 
+### [Premier League 2019-2020](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Premier%20League%202019-2020/Premier%20League%202019-2020.ipynb)
 
-[Dados](https://github.com/JoseEstevan/Notebooks/tree/main/Data%20Hackers%20Survey%202019)                                                                                         
-Tags: pesquisa, analytics, data-viz
+### [Data Hackers Survey 2019](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Data%20Hackers%20Survey%202019/Data%20Hackers%20Survey%202019.ipynb)
 
-
-#### [Apartamentos SP](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Apartamentos%20SP/Apartamentos%20SP.ipynb)
-
-
-[Dados](https://github.com/JoseEstevan/Notebooks/tree/main/Apartamentos%20SP)                                                                                                       
-Tags: imóveis, analytics, data-viz
+### [Apartamentos SP](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Apartamentos%20SP/Apartamentos%20SP.ipynb)
 
 
 <h3 align="center">Redes Sociais</h3>
