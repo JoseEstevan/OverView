@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Apps
 
-You can use the [editor on GitHub](https://github.com/JoseEstevan/OverView/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## [B2W](https://share.streamlit.io/joseestevan/ov_b2w/main/app.py)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Itaúsa](https://share.streamlit.io/joseestevan/ov_itausa/main/app.py)
 
-### Markdown
+# Dashboards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Totvs FI](https://public.tableau.com/views/TotvsFI/Dashboard1?:language=pt&:display_count=y&:origin=viz_share_link)
 
-```markdown
-Syntax highlighted code block
+# Notebooks
 
-# Header 1
-## Header 2
-### Header 3
+### [Premier League 2019-2020](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Premier%20League%202019-2020/Premier%20League%202019-2020.ipynb)
 
-- Bulleted
-- List
+### [Data Hackers Survey 2019](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Data%20Hackers%20Survey%202019/Data%20Hackers%20Survey%202019.ipynb)
 
-1. Numbered
-2. List
+### [Apartamentos SP](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Apartamentos%20SP/Apartamentos%20SP.ipynb)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<h3 align="center">Redes Sociais</h3>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p align="center">
+<a href="https://www.linkedin.com/in/joseestevan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joseestevan" height="30" width="30" /></a>
+<a href="https://medium.com/@joseestevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joseestevan" height="30" width="30" /></a>
+<a href="https://github.com/JoseEstevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="joseestevan" height="30" width="30" /></a>
+</p>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoseEstevan/OverView/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fique à vontade para entrar em contato através do meu email jose.estevan1524@gmail.com.
