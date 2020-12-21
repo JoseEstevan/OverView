@@ -1,14 +1,14 @@
-# Cases
-Análises de empresas presentes na Bolsa de Valores Brasileira.
+# Apps
 
 ## [B2W](https://share.streamlit.io/joseestevan/ov_b2w/main/app.py)
 
 ## [Itaúsa](https://share.streamlit.io/joseestevan/ov_itausa/main/app.py)
 
-## [Azul](https://share.streamlit.io/joseestevan/ov_azul/main/app.py)
+# Dashboards
 
-# Outras
-Análises de diferentes assuntos, em formato ipynb.
+## [Totvs FI](https://public.tableau.com/views/TotvsFI/Dashboard1?:language=pt&:display_count=y&:origin=viz_share_link)
+
+# Notebooks
 
 ### [Premier League 2019-2020](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Premier%20League%202019-2020/Premier%20League%202019-2020.ipynb)
 
@@ -22,6 +22,8 @@ Análises de diferentes assuntos, em formato ipynb.
 <p align="center">
 <a href="https://www.linkedin.com/in/joseestevan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joseestevan" height="30" width="30" /></a>
 <a href="https://medium.com/@joseestevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joseestevan" height="30" width="30" /></a>
+<a href="https://github.com/JoseEstevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="joseestevan" height="30" width="30" /></a>
 </p>
 
 Fique à vontade para entrar em contato através do meu email jose.estevan1524@gmail.com.
+
